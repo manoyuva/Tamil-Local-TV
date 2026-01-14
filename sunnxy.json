@@ -1,0 +1,15 @@
+{
+    "source": "https://raw.githubusercontent.com/alexandermail371/cricfytv/refs/heads/main/sunxt.m3u",
+    "total_channels": 33,
+    "channels": [
+        {
+            "tvg-id": "194408",
+            "tvg-logo": "https://sund-images.sunnxt.com/194408/640x360_SunTV_194408_2617a80e-4f90-42fa-b13a-acc8d7c97f9e.jpg",
+            "group-title": "",
+            "channel-name": "Sun TV",
+            "cookie": "",
+            "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+            "license_type": "clearkey",
+            "license_key": "6752015acf084572a08dfe21796f8b45:ff823ddbe5625c35d3e93f0ed4520115",
+            "mpd_url": "https://livestream1.sunnxt.com/05b5df1221764bca9867054c5e65ee62/SunTVB_IN_index.mpd"
+        }]}
