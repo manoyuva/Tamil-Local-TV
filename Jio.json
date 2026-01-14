@@ -1,0 +1,23 @@
+[
+    {
+        "tvg-id": "204",
+        "tvg-logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/DD_Sports.png",
+        "group-title": "Sports",
+        "channel-name": "DD Sports",
+        "cookie": "__hdnea__=st=1768181221~exp=1768267621~acl=/*~hmac=2662552ce8e61b5f4751dd08fc948c44413aca789c3fd8353531770fb5e9ee53",
+        "user_agent": "plaYtv/7.1.5 (Linux;Android 12) ExoPlayerLib/2.11.7",
+        "license_type": "clearkey",
+        "license_key": "0c1b139b9a955134a1efae8e44b63aac:00897bffd6997049787270797b8c3a17",
+        "mpd_url": "https://jiotvmblive.cdn.jio.com/bpk-tv/DD_Sports_BTS/output/index.mpd?__hdnea__=st=1768181221~exp=1768267621~acl=/*~hmac=2662552ce8e61b5f4751dd08fc948c44413aca789c3fd8353531770fb5e9ee53"
+    },
+    {
+        "tvg-id": "875",
+        "tvg-logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Dsports_HD.png",
+        "group-title": "Sports",
+        "channel-name": "Eurosport HD",
+        "cookie": "__hdnea__=st=1768181221~exp=1768267621~acl=/*~hmac=2662552ce8e61b5f4751dd08fc948c44413aca789c3fd8353531770fb5e9ee53",
+        "user_agent": "plaYtv/7.1.5 (Linux;Android 12) ExoPlayerLib/2.11.7",
+        "license_type": "clearkey",
+        "license_key": "14fc31f9d832509c9f7cdd77e622e30b:a884515f4e1dd77f07aa100ccec13388",
+        "mpd_url": "https://jiotvmblive.cdn.jio.com/bpk-tv/Dsports_HD_BTS/output/index.mpd?__hdnea__=st=1768181221~exp=1768267621~acl=/*~hmac=2662552ce8e61b5f4751dd08fc948c44413aca789c3fd8353531770fb5e9ee53"
+    }]
